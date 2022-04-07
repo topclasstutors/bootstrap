@@ -1,0 +1,66 @@
+*{
+ padding: 0;
+ margin: 0;   
+}
+.hero-text{
+    text-align: center;
+    padding-top: 15%;
+    color: white;
+}
+span{
+    opacity: 0.80;
+    background-color: black;
+    padding: 10px;
+     letter-spacing: 4px;
+}
+.obb{
+    background-image: url(../img/p2.jpg);
+    background-repeat: no-repeat;
+    height: 450px;
+    background-size: cover;
+    overflow: hidden;
+    
+}
+.s1{
+    font-size: 20px;
+    display: block;
+    color: black;
+}
+.n5{
+    margin-left: 30px;
+}
+.n6{
+    margin-right: 1%;
+}
+.n1{
+    text-align: center;
+}
+img{
+    width: 100%;
+}
+.n2{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.n4:hover{
+    opacity: 1;
+}
+.n4{
+    opacity: 0.75;
+}
+.v3{
+ margin-left: 600%;
+}
+.v2{
+    margin-left: 500%;
+}
+.v1{
+    margin-left: 200%;
+}
+.v4{
+    margin-left: 30%;
+}
+.n7{
+    color: white !important;
+    margin-top: 15px;
+}

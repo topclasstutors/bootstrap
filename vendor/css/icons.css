@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: white;
+    width: 100%;
+}
+.input-icons i {
+    position: absolute;
+    color: black;
+
+}
+.input-icons {
+    width: 100%;
+    margin-bottom: 10px;
+     
+}
+.icon{
+    padding: 15px;
+    min-width: 40px;
+}
+.input-field{
+    width: 100%;
+    padding: 10px;
+    text-align:left;
+    margin-bottom: 5px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    border: 2%;
+ outline: none;
+ cursor: auto;   
+ /* text-align: center; */
+}
+.input-field:focus{
+    border: 2px solid dodgerblue;
+}
+.btn{
+    background-color: dodgerblue;
+    color: white;
+    padding: 15px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+}
+.btn:hover{
+    opacity: 1;
+}
+p{
+    margin-top: 10px;
+}

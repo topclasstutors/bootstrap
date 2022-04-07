@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.n1{
+    list-style: none;
+    overflow: hidden;
+    background-color:papayawhip;
+    letter-spacing: 5px;
+}
+.n2{
+    float: left;
+}
+.n3{
+    text-decoration: none;
+    padding: 12px 10px;
+    text-align: center;
+    display: inline-block;
+ text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.n4{
+    letter-spacing: 4px;
+}
+.no{
+    position: relative;
+}
+.yes{
+    position: absolute;
+ bottom: 8px;
+ left: 16px;
+ font-size: 18px;
+ color: white;
+ font-size: 50px;
+}
+img{
+    width: 100%;
+    height: auto;
+}
